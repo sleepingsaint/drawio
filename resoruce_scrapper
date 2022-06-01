@@ -1,41 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T10:45:10.250Z" agent="5.0 (X11)" etag="LUMQQtyE3_UAfdcc22xg" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T10:48:14.963Z" agent="5.0 (X11)" etag="TtqWzlZT0go8QVRIXn2V" version="18.2.0" type="github">
   <diagram id="87yfOyelyclC9hgL3vtj" name="Page-1">
     <mxGraphModel dx="1362" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Resource Scapper&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Resource Scapper&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="430" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-2" target="yipRmvVA_7NMyDq9C4bx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-2" value="Github Issues" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-2" value="Github Issues" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="80" y="760" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-3" value="Notion Databases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-3" value="Notion Databases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="635" y="420" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-4" target="yipRmvVA_7NMyDq9C4bx-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-4" target="yipRmvVA_7NMyDq9C4bx-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-4" value="Frontend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;startArrow=none;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-29" target="yipRmvVA_7NMyDq9C4bx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-4" value="Frontend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-5" value="OAuth Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-5" value="OAuth Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-6" target="yipRmvVA_7NMyDq9C4bx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-6" value="Github Webhook serverless functions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-6" value="Github Webhook serverless functions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="610" y="760" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-14" value="Resources will be added, edited, removed using github issues " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;glass=0;shadow=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="80" y="620" width="150" height="80" as="geometry" />
+          <mxGeometry x="70" y="610" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-15" value="Webhook notify the events of github issues" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;glass=0;shadow=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="760" width="150" height="80" as="geometry" />
@@ -43,14 +43,35 @@
         <mxCell id="yipRmvVA_7NMyDq9C4bx-16" value="Serverless functions add the issues as resources in notion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;glass=0;shadow=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="635" y="590" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yipRmvVA_7NMyDq9C4bx-13" value="Authenticating Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;glass=0;shadow=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="85" y="280" width="150" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-19" target="yipRmvVA_7NMyDq9C4bx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yipRmvVA_7NMyDq9C4bx-19" value="&lt;div&gt;Users&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=0;fontSize=14;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="425" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-27" value="Backend Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=14;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="635" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-29" value="Query notion database and making github issues" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;glass=0;shadow=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;endArrow=none;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-4" target="yipRmvVA_7NMyDq9C4bx-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="380" as="sourcePoint" />
+            <mxPoint x="695" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-13" target="yipRmvVA_7NMyDq9C4bx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-13" value="Authenticating Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;glass=0;shadow=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="85" y="280" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yipRmvVA_7NMyDq9C4bx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;endArrow=none;" edge="1" parent="1" source="yipRmvVA_7NMyDq9C4bx-4" target="yipRmvVA_7NMyDq9C4bx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="160" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
